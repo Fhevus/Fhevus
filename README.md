@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Fhevus
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @Emeka-Nwafor Favour
+- 👀 I’m interested in data analytics/Data Engineering
+- 🌱 I’m currently learning Cloud Infrastructure
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me favournwafor91gmail.com
 
